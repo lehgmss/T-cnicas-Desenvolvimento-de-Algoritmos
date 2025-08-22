@@ -1,4 +1,4 @@
-# T-cnicas-Desenvolvimento-de-Algoritmos/UDF
+# Tecnicas-Desenvolvimento-de-Algoritmos/UDF
 # 🧠 Técnicas de Algoritmos
 
 Este repositório foi criado com o objetivo de armazenar e organizar atividades relacionadas à disciplina de **Técnicas de Algoritmos**. Aqui você encontrará implementações, exercícios, estudos de caso e materiais complementares que auxiliam no desenvolvimento de raciocínio lógico e habilidades de programação.
